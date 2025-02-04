@@ -1,1 +1,2 @@
 Hello this is a file from another developer
+Great this is nice!
